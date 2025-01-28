@@ -1,0 +1,9 @@
+car with registration number 	UP 04 T 5339 	 entered at time 	2024-05-17 00:29:25.224135
+car with registration number 	UP 04 T 5339 	 entered at time 	2024-05-17 11:47:37.658034
+car with registration number 	UP 04 T 5339 	 entered at time 	2024-05-17 11:49:54.014770
+car with registration number 	UP 04 T 5339 	 entered at time 	2024-05-21 15:36:24.172551
+car with registration number 	UP 04 T 5339 	 entered at time 	2024-05-21 16:50:49.271652
+car with registration number 	UP 04 T 5339 	 entered at time 	2024-05-21 16:51:10.794900
+car with registration number 		 entered at time 	2024-07-12 10:51:09.978152
+car with registration number 		 entered at time 	2025-01-17 23:13:47.943074
+car with registration number 		 entered at time 	2025-01-17 23:16:17.386556
