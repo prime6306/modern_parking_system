@@ -1,7 +1,5 @@
-import pytesseract
-import os
-from PIL import Image
-import tempfile
-import pygame
-import cv2
-import datetime
+cv2
+pytesseract
+pygame
+Pillow
+datetime
